@@ -30,7 +30,7 @@ Core Strengths: [List soft or technical skills, e.g., problem-solving, collabora
 
 Portfolio
 
-Check out some of my work: [Insert link to portfolio or showcase relevant projects]
+Check out some of my work [https://t.me/RudushiCrypto]
 
 
 ---
@@ -54,3 +54,8 @@ You can click the Preview link to take a look at your changes.
 🎥 YouTube: Rudushi crypto 
 
 🐦 X (Twitter): @Rudushixplore
+
+📞 Contacts
+
+
+If you want to get in touch with me to discuss financial markets, development, or any other topic, feel free to reach out to me on the following platform @Sheikhmahi
