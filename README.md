@@ -1,7 +1,4 @@
-Here's a more professional and attention-grabbing GitHub README.md that will make people curious about you:
 
-
----
 
 🚀 Maria Rudushi | Digital Creator & Crypto Enthusiast
 
@@ -30,8 +27,6 @@ I’m Maria Rudushi, a creative designer, content strategist, and crypto explore
 
 
 ---
-
-This makes you look like a professional digital creator while keeping a sense of mystery that makes people want to search for you. Want me to tweak anything?
 
 
 
