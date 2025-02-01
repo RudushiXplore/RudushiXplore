@@ -13,7 +13,7 @@
 - 🌱 Passionate about **Graphic Design**, **Crypto Content Creation**, and **Freelancing**  
 - 🛍️ Check out my shop: [ScriptsChats](https://t.me/ScriptsChats)  
 - 💬 Ask me about **Design, Crypto Trends,** and **Telegram Growth**  
-- 📩 Reach me at: **rudushi.maria@gmail.com**  
+- 📩 Reach me at: **megharudushi@gmail.com**  
 
 ---
 
@@ -35,7 +35,7 @@
 ### 🌐 **Connect With Me**  
 <p align="center">
   <a href="https://t.me/RudushiCrypto" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:rudushi.maria@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:megharudushi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,4 +43,3 @@
 <p align="center">
   <b>✨ Let's Create, Innovate, and Explore Together! ✨</b>
 </p>
-
